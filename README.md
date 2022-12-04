@@ -4,7 +4,7 @@
 <H4><P>If You are using lower version of Android, Like Android 5 or 6. And if you want to Run <B><I>Termux</I></B> on it. In this page you will get your solution how to do that.</P></H4>
 
 <H2>1). Download Termux:-</H2>
-<P><H4>Download Termux From Given Link Below.</H4>
+<P><H4>Download Termux From Link Given Below.</H4>
 <pre>https://archive.org/download/termux-repositories-legacy/termux-v0.79-offline-bootstraps.apk</pre>
 <H4>After downloading Install it.</H4></P>
 
