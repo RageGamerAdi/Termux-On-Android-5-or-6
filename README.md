@@ -10,7 +10,7 @@
 
 <H2>Setup Termux:-</H2>
 <P><H4>After installation Paste the following command in Termux.</H4>
-<H6>This is one Line Command.</H6>
+<H6>Copy this one Line Command:-</H6>
 <pre>termux-setup-storage && cd ../usr/etc/apt/sources.list.d && rm -rf * && cd ~ && cd ../usr/etc/apt/ && rm -f sources.list && echo "deb http://packages.termux.dev/apt/termux-main-21 stable main" > sources.list && cd ~</pre></P>
 
 <H5>Done, After that you can use all termux Commands in your Lower Android Version</H5>
