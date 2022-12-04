@@ -1,4 +1,4 @@
-# Run-Termux-On-Old-Android-Devices-5-&-6
+# Run Termux On Old Android Devices 5 & 6
 
 <H2>ABOUT:-</H2>
 <H4><P>If You are using lower version of Android, Like Android 5 or 6. And if you want to Run <B><I>Termux</I></B> on it. In this page you will get your solution how to do that.</P></H4>
