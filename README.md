@@ -14,4 +14,4 @@
 <pre>termux-setup-storage && cd ../usr/etc/apt/sources.list.d && rm -rf * && cd ~ && cd ../usr/etc/apt/ && rm -f sources.list && echo "deb http://packages.termux.dev/apt/termux-main-21 stable main" > sources.list && cd ~</pre></P>
 
 <H5>Done, After that you can use all termux Commands in your Lower Android Version</H5>
-<center><H1>~~Thanks~~</H1></center>
+<center><H1>~~~Thanks~~~</H1></center>
